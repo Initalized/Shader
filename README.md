@@ -4,7 +4,7 @@
 
 ## Preview  
 See how it looks in action:  
-[![Preview](https://github.com/Initalized/Shader/preview.png)](https://github.com/Initalized/Shader/preview.png)
+![Preview](https://github.com/Initalized/Shader/blob/main/preview.png)
 
 ---
 
