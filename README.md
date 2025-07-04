@@ -10,7 +10,7 @@ See how it looks in action:
 
 ## Shader Structure  
 Here's a breakdown of how the shader is built:  
-![Shader Construction](https://github.com/Initalized/Shader/construction.png)
+![Shader Construction](https://github.com/Initalized/Shader/blob/main/Construction.png)
 
 ---
 
