@@ -16,13 +16,13 @@ Here's a breakdown of how the shader is built:
 
 ## Customizing the Color  
 To change the color palette, simply tweak the **ColorRamp** node:  
-![Color Customization](https://github.com/Initalized/Shader/color.png)
+![Color Customization](https://github.com/Initalized/Shader/blob/main/color.png)
 
 ---
 
 ## Adjusting Lighting  
 If you want to change how lighting affects the shader, modify the **Diffuse BSDF** node:  
-![Lighting Effect](https://github.com/Initalized/Shader/effect.png)
+![Lighting Effect](https://github.com/Initalized/Shader/blob/main/effect.png)
 
 ---
 
